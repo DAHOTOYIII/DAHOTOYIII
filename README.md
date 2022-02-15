@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Third!
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development using python
 - 🌱 I’m currently learning django framework
 - 💞️ I’m looking to collaborate on django
 - 📫 How to reach me zeus.dahotoyiv@gmail.com
