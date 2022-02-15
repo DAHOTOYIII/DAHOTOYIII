@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DAHOTOYIII
+- 👋 Hi, I’m Third!
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning django framework
 - 💞️ I’m looking to collaborate on django
